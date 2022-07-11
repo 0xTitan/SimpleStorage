@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/0xTitan/SimpleStorage/static/css/main.e11971f9.chunk.css",
+    "main.js": "/0xTitan/SimpleStorage/static/js/main.0e71afc4.chunk.js",
+    "main.js.map": "/0xTitan/SimpleStorage/static/js/main.0e71afc4.chunk.js.map",
+    "runtime-main.js": "/0xTitan/SimpleStorage/static/js/runtime-main.4162f3e8.js",
+    "runtime-main.js.map": "/0xTitan/SimpleStorage/static/js/runtime-main.4162f3e8.js.map",
+    "static/js/2.7b6de8cc.chunk.js": "/0xTitan/SimpleStorage/static/js/2.7b6de8cc.chunk.js",
+    "static/js/2.7b6de8cc.chunk.js.map": "/0xTitan/SimpleStorage/static/js/2.7b6de8cc.chunk.js.map",
+    "index.html": "/0xTitan/SimpleStorage/index.html",
+    "static/css/main.e11971f9.chunk.css.map": "/0xTitan/SimpleStorage/static/css/main.e11971f9.chunk.css.map",
+    "static/js/2.7b6de8cc.chunk.js.LICENSE.txt": "/0xTitan/SimpleStorage/static/js/2.7b6de8cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4162f3e8.js",
+    "static/js/2.7b6de8cc.chunk.js",
+    "static/css/main.e11971f9.chunk.css",
+    "static/js/main.0e71afc4.chunk.js"
+  ]
+}
